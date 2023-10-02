@@ -1,10 +1,16 @@
-### Hi there 👋
+# Data Analyst
 
-<!--
-**Wlefils/Wlefils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+ Master's of Business Administration
+<br> Finance, Bachelor's </br>
 
-Here are some ideas to get you started:
+### Work Expeience
+Junior Data Analyst at Cal Poly Humboldt
+- big impact project 1!
+- big impact project 2!
 
+  ### Projects
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
